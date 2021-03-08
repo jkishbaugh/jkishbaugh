@@ -1,0 +1,11 @@
+{
+  "name": "jkishbaugh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jkishbaugh/jkishbaugh.git",
+  "author": "Justin Kishbaugh <kishju@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mustache": "^4.1.0"
+  }
+}
