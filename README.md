@@ -1,2 +1,5 @@
-My name is Justin and today is Monday, March 8, 4:01 PM GMT-7.
+![ReadMe Header](/images/readmeHeader.png)
+# Hello Everyone!! :sauropod:
+
+My name is Justin.
 
