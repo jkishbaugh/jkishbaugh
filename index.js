@@ -21,7 +21,7 @@ let DATA = {
             color: 'F4A731'
         },
         {
-            wordOnLeft: 'Code',
+            wordOnLeft: 'Language',
             wordOnRight: 'Java',
             icon: 'Java',
             color: 'E17F33'
@@ -33,7 +33,7 @@ let DATA = {
             color: '653A27'
         },
         {
-            wordOnLeft: 'Code',
+            wordOnLeft: 'Language',
             wordOnRight: 'Javascript',
             icon: 'JavaScript',
             color: '7CBEA4'
@@ -49,10 +49,47 @@ let DATA = {
             wordOnRight: 'Go',
             icon: 'Go',
             color: 'E17F33'
-        }]
+        },
+        {
+            wordOnLeft: 'Framework',
+            wordOnRight: '.NET',
+            icon: '.NET',
+            color: '653A27'
+        },
+        {
+            wordOnLeft: 'Language',
+            wordOnRight: 'CSharp',
+            icon: 'CSharp',
+            color: '7CBEA4'
+        },
+        {
+            wordOnLeft: 'Tool',
+            wordOnRight: 'SQL',
+            icon: 'Microsoft SQL Server',
+            color: 'F4A731'
+        },
+        {
+            wordOnLeft: 'Tool',
+            wordOnRight: 'MySql',
+            icon: 'MySQL',
+            color: 'E17F33'
+        },
+        {
+            wordOnLeft: 'Tool',
+            wordOnRight: 'Intellij',
+            icon: 'Intellij IDEA',
+            color: '653A27'
+        },
+        ]
 }
+retrieveTILByLanguage = () => {
 
+}
+buildData = () => {
+
+}
 function generateReadMe() {
+
     fs.readFile(MUSTACHE_MAIN, (err, data) => {
         if (err) throw err;
         const output = Mustache.render(data.toString(), DATA);
