@@ -58,7 +58,7 @@ let DATA = {
         },
         {
             wordOnLeft: 'Language',
-            wordOnRight: 'CSharp',
+            wordOnRight: 'C#',
             icon: 'CSharp',
             color: '7CBEA4'
         },
