@@ -6,6 +6,10 @@
   "author": "Justin Kishbaugh <kishju@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "mustache": "^4.1.0"
+    "mustache": "^4.1.0",
+    "simple-icons": "^4.25.0"
+  },
+  "devDependencies": {
+    "metalsmith-asciidoctor": "^1.1.2"
   }
 }

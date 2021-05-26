@@ -80,6 +80,12 @@ let DATA = {
             icon: 'Intellij IDEA',
             color: '653A27'
         },
+        {
+            wordOnLeft: 'Tool',
+            wordOnRight: 'WSL',
+            icon: 'Windows Terminal',
+            color: '7CBEA4'
+        },
         ]
 }
 retrieveTILByLanguage = () => {
