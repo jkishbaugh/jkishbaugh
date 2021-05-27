@@ -1,6 +1,8 @@
 const Mustache = require('mustache');
 const fs = require('fs');
+const axios = require('axios')
 const MUSTACHE_MAIN = './main.mustache'
+
 
 let DATA = {
     name: "Justin",
@@ -86,16 +88,27 @@ let DATA = {
             icon: 'Windows Terminal',
             color: '7CBEA4'
         },
-        ]
+        ],
+    til:[]
 }
 retrieveTILByLanguage = () => {
-
+    axios.get('https://til-jk-default-rtdb.firebaseio.com/learningItems.json')
+        .then(response => {
+            console.log(typeof response.data.entries)
+            Object.entries(response.data).map(item => {
+               DATA.til.push(item)
+            })
+            console.log(DATA.til)
+        })
+        .catch(err => {
+            console.error(err)
+        })
 }
 buildData = () => {
 
 }
 function generateReadMe() {
-
+    retrieveTILByLanguage();
     fs.readFile(MUSTACHE_MAIN, (err, data) => {
         if (err) throw err;
         const output = Mustache.render(data.toString(), DATA);
