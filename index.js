@@ -89,30 +89,36 @@ let DATA = {
             color: '7CBEA4'
         },
         ],
-    til:[]
+    tils:[]
 }
 retrieveTILByLanguage = () => {
-    axios.get('https://til-jk-default-rtdb.firebaseio.com/learningItems.json')
-        .then(response => {
-            console.log(typeof response.data.entries)
-            Object.entries(response.data).map(item => {
-               DATA.til.push(item)
-            })
-            console.log(DATA.til)
-        })
-        .catch(err => {
-            console.error(err)
-        })
-}
-buildData = () => {
 
 }
+
 function generateReadMe() {
-    retrieveTILByLanguage();
+
     fs.readFile(MUSTACHE_MAIN, (err, data) => {
         if (err) throw err;
-        const output = Mustache.render(data.toString(), DATA);
-        fs.writeFileSync('README.md', output);
+        axios.get('https://til-jk-default-rtdb.firebaseio.com/learningItems.json')
+            .then(response => {
+                Object.entries(response.data).map(item => {
+                   item.map(value => {
+                       console.log(value)
+                       DATA.tils.push(value)
+                   })
+                })
+
+                return data;
+            }).then(data => {
+            const output = Mustache.render(data.toString(), DATA);
+            //console.log(output)
+            fs.writeFileSync('README.md', output);
+        })
+            .catch(err => {
+                console.error(err);
+                throw err;
+            })
+
     })
 }
 
