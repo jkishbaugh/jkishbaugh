@@ -60,14 +60,14 @@ let DATA = {
         },
         {
             wordOnLeft: 'Language',
-            wordOnRight: 'CSharp',
-            icon: 'CSharp',
+            wordOnRight: 'C Sharp',
+            icon: 'C-Sharp',
             color: '7CBEA4'
         },
         {
             wordOnLeft: 'Tool',
             wordOnRight: 'SQL',
-            icon: 'Microsoft SQL Server',
+            icon: 'Microsoft-SQL-Server',
             color: 'F4A731'
         },
         {
@@ -79,13 +79,13 @@ let DATA = {
         {
             wordOnLeft: 'Tool',
             wordOnRight: 'Intellij',
-            icon: 'Intellij IDEA',
+            icon: 'Intellij-IDEA',
             color: '653A27'
         },
         {
             wordOnLeft: 'Tool',
             wordOnRight: 'WSL',
-            icon: 'Windows Terminal',
+            icon: 'Windows-Terminal',
             color: '7CBEA4'
         },
         ],
