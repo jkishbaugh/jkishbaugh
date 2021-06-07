@@ -26,7 +26,7 @@ My name is Justin. I am a software developer.
 
 <div>
     <ul>
-        <p>Date: Monday, June 7, 8:40 AM GMT-7</p>
+        <p>Date: Monday, June 7, 8:41 AM GMT-7</p>
         <p>Language: </p>
         <p>What I learned: </p>
     </ul>
@@ -40,7 +40,7 @@ My name is Justin. I am a software developer.
 </div>
 <div>
     <ul>
-        <p>Date: Monday, June 7, 8:40 AM GMT-7</p>
+        <p>Date: Monday, June 7, 8:41 AM GMT-7</p>
         <p>Language: </p>
         <p>What I learned: </p>
     </ul>
@@ -54,7 +54,7 @@ My name is Justin. I am a software developer.
 </div>
 <div>
     <ul>
-        <p>Date: Monday, June 7, 8:40 AM GMT-7</p>
+        <p>Date: Monday, June 7, 8:41 AM GMT-7</p>
         <p>Language: </p>
         <p>What I learned: </p>
     </ul>
@@ -68,7 +68,7 @@ My name is Justin. I am a software developer.
 </div>
 <div>
     <ul>
-        <p>Date: Monday, June 7, 8:40 AM GMT-7</p>
+        <p>Date: Monday, June 7, 8:41 AM GMT-7</p>
         <p>Language: </p>
         <p>What I learned: </p>
     </ul>
@@ -82,7 +82,7 @@ My name is Justin. I am a software developer.
 </div>
 <div>
     <ul>
-        <p>Date: Monday, June 7, 8:40 AM GMT-7</p>
+        <p>Date: Monday, June 7, 8:41 AM GMT-7</p>
         <p>Language: </p>
         <p>What I learned: </p>
     </ul>
