@@ -60,7 +60,7 @@ let DATA = {
         },
         {
             wordOnLeft: 'Language',
-            wordOnRight: 'C Sharp',
+            wordOnRight: 'CSharp',
             icon: 'C-Sharp',
             color: '7CBEA4'
         },
