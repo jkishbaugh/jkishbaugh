@@ -12,7 +12,7 @@ My name is Justin. I am a software developer.
 ![](https://img.shields.io/badge/Exploration-Reason-informational?style=flat&logo=Reason&logoColor=white&color=F4A731)
 ![](https://img.shields.io/badge/Exploration-Go-informational?style=flat&logo=Go&logoColor=white&color=E17F33)
 ![](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=.NET&logoColor=white&color=653A27)
-![](https://img.shields.io/badge/Language-C Sharp-informational?style=flat&logo=C-Sharp&logoColor=white&color=7CBEA4)
+![](https://img.shields.io/badge/Language-CSharp-informational?style=flat&logo=C-Sharp&logoColor=white&color=7CBEA4)
 ![](https://img.shields.io/badge/Tool-SQL-informational?style=flat&logo=Microsoft-SQL-Server&logoColor=white&color=F4A731)
 ![](https://img.shields.io/badge/Tool-MySql-informational?style=flat&logo=MySQL&logoColor=white&color=E17F33)
 ![](https://img.shields.io/badge/Tool-Intellij-informational?style=flat&logo=Intellij-IDEA&logoColor=white&color=653A27)
