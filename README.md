@@ -5,18 +5,18 @@ My name is Justin. I am a software developer.
 
 ## Current Skills & Explorations
 
-![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=&logoColor=white&color=F4A731)
-![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=&logoColor=white&color=E17F33)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=&logoColor=white&color=653A27)
-![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=&logoColor=white&color=7CBEA4)
-![](https://img.shields.io/badge/Exploration-Reason-informational?style=flat&logo=&logoColor=white&color=F4A731)
-![](https://img.shields.io/badge/Exploration-Go-informational?style=flat&logo=&logoColor=white&color=E17F33)
-![](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=&logoColor=white&color=653A27)
-![](https://img.shields.io/badge/Language-CSharp-informational?style=flat&logo=&logoColor=white&color=7CBEA4)
-![](https://img.shields.io/badge/Tool-SQL-informational?style=flat&logo=&logoColor=white&color=F4A731)
-![](https://img.shields.io/badge/Tool-MySql-informational?style=flat&logo=&logoColor=white&color=E17F33)
-![](https://img.shields.io/badge/Tool-Intellij-informational?style=flat&logo=&logoColor=white&color=653A27)
-![](https://img.shields.io/badge/Tool-WSL-informational?style=flat&logo=&logoColor=white&color=7CBEA4)
+![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=Spring&logoColor=white&color=F4A731)
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=E17F33)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=653A27)
+![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=7CBEA4)
+![](https://img.shields.io/badge/Exploration-Reason-informational?style=flat&logo=Reason&logoColor=white&color=F4A731)
+![](https://img.shields.io/badge/Exploration-Go-informational?style=flat&logo=Go&logoColor=white&color=E17F33)
+![](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=.NET&logoColor=white&color=653A27)
+![](https://img.shields.io/badge/Language-CSharp-informational?style=flat&logo=CSharp&logoColor=white&color=7CBEA4)
+![](https://img.shields.io/badge/Tool-SQL-informational?style=flat&logo=Microsoft SQL Server&logoColor=white&color=F4A731)
+![](https://img.shields.io/badge/Tool-MySql-informational?style=flat&logo=MySQL&logoColor=white&color=E17F33)
+![](https://img.shields.io/badge/Tool-Intellij-informational?style=flat&logo=Intellij IDEA&logoColor=white&color=653A27)
+![](https://img.shields.io/badge/Tool-WSL-informational?style=flat&logo=Windows Terminal&logoColor=white&color=7CBEA4)
 
 ## GitHub stats
 
@@ -26,7 +26,7 @@ My name is Justin. I am a software developer.
 
 <div>
     <ul>
-        <p>Date: Friday, May 28, 7:54 AM GMT-7</p>
+        <p>Date: Monday, June 7, 8:33 AM GMT-7</p>
         <p>Language: </p>
         <p>What I learned: </p>
     </ul>
@@ -34,13 +34,13 @@ My name is Justin. I am a software developer.
 <div>
     <ul>
         <p>Date: 3&#x2F;25&#x2F;2021 02:27:00</p>
-        <p>Language: </p>
+        <p>Language: groovy</p>
         <p>What I learned: TIL: The each method in groovy is slow in comparision to the for() loop when working through a large (100000) number of records. </p>
     </ul>
 </div>
 <div>
     <ul>
-        <p>Date: Friday, May 28, 7:54 AM GMT-7</p>
+        <p>Date: Monday, June 7, 8:33 AM GMT-7</p>
         <p>Language: </p>
         <p>What I learned: </p>
     </ul>
@@ -48,13 +48,13 @@ My name is Justin. I am a software developer.
 <div>
     <ul>
         <p>Date: 4&#x2F;21&#x2F;2021 02:49:00</p>
-        <p>Language: </p>
+        <p>Language: java</p>
         <p>What I learned: During start up spring can only add columns or tables to a database, it cannot delete them or change data types without destroying the existing data. So if you need to change a varchar field size limit or change it from varchar to a text field it has to be done manually or you have to be okay with losing the data.</p>
     </ul>
 </div>
 <div>
     <ul>
-        <p>Date: Friday, May 28, 7:54 AM GMT-7</p>
+        <p>Date: Monday, June 7, 8:33 AM GMT-7</p>
         <p>Language: </p>
         <p>What I learned: </p>
     </ul>
@@ -68,7 +68,7 @@ My name is Justin. I am a software developer.
 </div>
 <div>
     <ul>
-        <p>Date: Friday, May 28, 7:54 AM GMT-7</p>
+        <p>Date: Monday, June 7, 8:33 AM GMT-7</p>
         <p>Language: </p>
         <p>What I learned: </p>
     </ul>
@@ -78,5 +78,19 @@ My name is Justin. I am a software developer.
         <p>Date: 5&#x2F;18&#x2F;2021</p>
         <p>Language: SQL</p>
         <p>What I learned: When attempting to find the types of each column in a query there is a function that will help. The query will look something like this, SELECT * FROM sys.dm_exec_describe_first_result_set(N&#39;$query&#39;, NULL, 0)</p>
+    </ul>
+</div>
+<div>
+    <ul>
+        <p>Date: Monday, June 7, 8:33 AM GMT-7</p>
+        <p>Language: </p>
+        <p>What I learned: </p>
+    </ul>
+</div>
+<div>
+    <ul>
+        <p>Date: 6&#x2F;01&#x2F;2021</p>
+        <p>Language: C#</p>
+        <p>What I learned: When getting the last element from a list or the nth element from the end of a list, use the index from end expression (^{numberFromEnd}) to count backwards instead of starting at the initial index. </p>
     </ul>
 </div>
