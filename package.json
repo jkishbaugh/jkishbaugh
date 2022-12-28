@@ -6,7 +6,7 @@
   "author": "Justin Kishbaugh <kishju@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "mustache": "^4.1.0",
     "simple-icons": "^4.25.0"
   },
