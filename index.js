@@ -94,7 +94,7 @@ let DATA = {
     },
     {
       wordOnLeft: "Tool",
-      wordOnRight: "New Relic",
+      wordOnRight: "New-Relic",
       icon: "newrelic",
       color: "F4A731",
     },
@@ -129,7 +129,7 @@ let DATA = {
       color: "7CBEA4",
     },{
       wordOnLeft: "Certification",
-      wordOnRight: "AWS Cloud Practitioner",
+      wordOnRight: "AWS-Cloud-Practitioner",
       icon: "amazonwebservices",
       color: "7CBEA4"
     }
