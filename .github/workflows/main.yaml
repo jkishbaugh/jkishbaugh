@@ -18,7 +18,7 @@ jobs:
         with:
           node-version: '15.x'
       - name: Cache dependencies and build outputs to improve workflow execution time.
-        uses: actions/cache@v1
+        uses: actions/cache@v3
         with:
           path: node_modules
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
@@ -29,5 +29,5 @@ jobs:
       - name: Commit and Push new README.md
         uses: devops-infra/action-commit-push@master
         with:
-          github_token: ${{ secrets.README_GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: main
