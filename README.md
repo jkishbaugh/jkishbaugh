@@ -25,6 +25,7 @@ My name is Justin. I am a software developer.
 ![](https://img.shields.io/badge/Tool-Splunk-informational?style=flat&logo=splunk&logoColor=white&color=7CBEA4)
 ![](https://img.shields.io/badge/Certification-Azure-Developer-informational?style=flat&logo=Azure-DevOps&logoColor=white&color=7CBEA4)
 ![](https://img.shields.io/badge/Certification-AWS-Cloud-Practitioner-informational?style=flat&logo=amazonwebservices&logoColor=white&color=7CBEA4)
+
 ## Certifications
 <div>
   <div style="display: flex; gap: 20px;">
@@ -42,6 +43,3 @@ My name is Justin. I am a software developer.
 ## GitHub stats
 
 [![Justin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=jkishbaugh&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
-## Today I learned ...
-
