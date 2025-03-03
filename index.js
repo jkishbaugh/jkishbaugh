@@ -45,6 +45,12 @@ let DATA = {
       color: "7CBEA4",
     },
     {
+      wordOnLeft: "Language",
+      wordOnRight: "Kotlin",
+      icon: "kotlin",
+      color: "7CBEA4",
+    },
+    {
       wordOnLeft: "Exploration",
       wordOnRight: "Rust",
       icon: "Rust",
@@ -76,6 +82,24 @@ let DATA = {
     },
     {
       wordOnLeft: "Tool",
+      wordOnRight: "ArgoCd",
+      icon: "argo",
+      color: "F4A731",
+    },
+    {
+      wordOnLeft: "Tool",
+      wordOnRight: "OpenShift",
+      icon: "redhatopenshift",
+      color: "F4A731",
+    },
+    {
+      wordOnLeft: "Tool",
+      wordOnRight: "New Relic",
+      icon: "newrelic",
+      color: "F4A731",
+    },
+    {
+      wordOnLeft: "Tool",
       wordOnRight: "MySql",
       icon: "MySQL",
       color: "E17F33",
@@ -93,11 +117,22 @@ let DATA = {
       color: "7CBEA4",
     },
     {
+      wordOnLeft: "Tool",
+      wordOnRight: "Splunk",
+      icon: "splunk",
+      color: "7CBEA4",
+    },
+    {
       wordOnLeft: "Certification",
       wordOnRight: "Azure-Developer",
       icon: "Azure-DevOps",
       color: "7CBEA4",
-    },
+    },{
+      wordOnLeft: "Certification",
+      wordOnRight: "AWS Cloud Practitioner",
+      icon: "amazonwebservices",
+      color: "7CBEA4"
+    }
   ],
 };
 
