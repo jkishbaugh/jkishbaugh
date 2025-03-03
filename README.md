@@ -18,13 +18,13 @@ My name is Justin. I am a software developer.
 ![](https://img.shields.io/badge/Tool-SQL-informational?style=flat&logo=Microsoft-SQL-Server&logoColor=white&color=F4A731)
 ![](https://img.shields.io/badge/Tool-ArgoCd-informational?style=flat&logo=argo&logoColor=white&color=F4A731)
 ![](https://img.shields.io/badge/Tool-OpenShift-informational?style=flat&logo=redhatopenshift&logoColor=white&color=F4A731)
-![](https://img.shields.io/badge/Tool-New Relic-informational?style=flat&logo=newrelic&logoColor=white&color=F4A731)
+![](https://img.shields.io/badge/Tool-New-Relic-informational?style=flat&logo=newrelic&logoColor=white&color=F4A731)
 ![](https://img.shields.io/badge/Tool-MySql-informational?style=flat&logo=MySQL&logoColor=white&color=E17F33)
 ![](https://img.shields.io/badge/Tool-Intellij-informational?style=flat&logo=Intellij-IDEA&logoColor=white&color=653A27)
 ![](https://img.shields.io/badge/Tool-WSL-informational?style=flat&logo=Windows-Terminal&logoColor=white&color=7CBEA4)
 ![](https://img.shields.io/badge/Tool-Splunk-informational?style=flat&logo=splunk&logoColor=white&color=7CBEA4)
 ![](https://img.shields.io/badge/Certification-Azure-Developer-informational?style=flat&logo=Azure-DevOps&logoColor=white&color=7CBEA4)
-![](https://img.shields.io/badge/Certification-AWS Cloud Practitioner-informational?style=flat&logo=amazonwebservices&logoColor=white&color=7CBEA4)
+![](https://img.shields.io/badge/Certification-AWS-Cloud-Practitioner-informational?style=flat&logo=amazonwebservices&logoColor=white&color=7CBEA4)
 
 ## GitHub stats
 
