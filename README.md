@@ -1,5 +1,4 @@
 ![ReadMe Header](/images/JustinBanner.png)
-
 # Hello Everyone!! :sauropod:
 
 My name is Justin. I am a software developer.
@@ -19,9 +18,11 @@ My name is Justin. I am a software developer.
 ![](https://img.shields.io/badge/Tool-MySql-informational?style=flat&logo=MySQL&logoColor=white&color=E17F33)
 ![](https://img.shields.io/badge/Tool-Intellij-informational?style=flat&logo=Intellij-IDEA&logoColor=white&color=653A27)
 ![](https://img.shields.io/badge/Tool-WSL-informational?style=flat&logo=Windows-Terminal&logoColor=white&color=7CBEA4)
-![](https://img.shields.io/badge/Certification-Azure
-Developer-informational?style=flat&logo=Azure-DevOps&logoColor=white&color=7CBEA4)
+![](https://img.shields.io/badge/Certification-Azure-Developer-informational?style=flat&logo=Azure-DevOps&logoColor=white&color=7CBEA4)
 
 ## GitHub stats
 
 [![Justin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=jkishbaugh&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+## Today I learned ...
+
