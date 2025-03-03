@@ -29,13 +29,13 @@ My name is Justin. I am a software developer.
 ## Certifications
 <div>
   <div style="display: flex; gap: 20px;">
-    <div style="text-align: center;">
+    <div style="text-align: center; flex:row;">
       <h3>AWS Certified Cloud Practitioner</h3>
-      <img src="/images/awsbadge.png" alt="Image 1" style="width: 200px; height: auto;">
+      <img src="/images/awsbadge.png" alt="Image 1" style="width: 150px; height: auto;">
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; flex:row;">
       <h3>Microsoft Certified Azure Developer Associate</h3>
-      <img src="" alt="Image 2" style="width: 200px; height: auto;">
+      <img src="images\azure-developer-associate-600x600.png" alt="Image 2" style="width: 150px; height: auto;">
     </div>
   </div>
 </div>
