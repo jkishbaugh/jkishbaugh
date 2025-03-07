@@ -34,7 +34,7 @@ My name is Justin. I am a software developer.
     </div>
     <div style="text-align: center;">
       <h3>Microsoft Certified Azure Developer Associate</h3>
-      <img src="" alt="Image 2" style="width: 200px; height: auto;">
+      <img src="images\azure-developer-associate-600x600.png" alt="Image 2" style="width: 200px; height: auto;">
     </div>
   </div>
 </div>
