@@ -2,14 +2,19 @@
   "name": "jkishbaugh",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "repository": "git@github.com:jkishbaugh/jkishbaugh.git",
   "author": "Justin Kishbaugh <kishju@gmail.com>",
-  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
   "dependencies": {
     "mustache": "^4.1.0",
     "simple-icons": "^4.25.0"
   },
   "devDependencies": {
-    "metalsmith-asciidoctor": "^1.1.2"
+    "chai": "^5.2.0",
+    "metalsmith-asciidoctor": "^1.1.2",
+    "mocha": "^11.1.0"
   }
 }

@@ -1,44 +1,28 @@
-![ReadMe Header](/images/JustinBanner.png)
 # Hello Everyone!! :sauropod:
 
-My name is Justin. I am a software developer.
+<div style="display: flex; flex-direction: row; align-items: center; justify: space-between;">
+  <p style="width: 100px;">My name is Justin. I am a software developer.</p>
+  <img style="height:200px; width: auto; align: right; right: 0;" src="&#x2F;images&#x2F;hiking.png" alt="Profile Image" />
+</div>
 
 ## Current Skills & Explorations
 
-![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=Spring&logoColor=white&color=F4A731)
-![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=E17F33)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=653A27)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=Angular&logoColor=white&color=653A27)
-![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=7CBEA4)
-![](https://img.shields.io/badge/Language-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=7CBEA4)
-![](https://img.shields.io/badge/Exploration-Rust-informational?style=flat&logo=Rust&logoColor=white&color=F4A731)
-![](https://img.shields.io/badge/Exploration-Go-informational?style=flat&logo=Go&logoColor=white&color=E17F33)
-![](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=.NET&logoColor=white&color=653A27)
-![](https://img.shields.io/badge/Language-CSharp-informational?style=flat&logo=C-Sharp&logoColor=white&color=7CBEA4)
-![](https://img.shields.io/badge/Tool-SQL-informational?style=flat&logo=Microsoft-SQL-Server&logoColor=white&color=F4A731)
-![](https://img.shields.io/badge/Tool-ArgoCd-informational?style=flat&logo=argo&logoColor=white&color=F4A731)
-![](https://img.shields.io/badge/Tool-OpenShift-informational?style=flat&logo=redhatopenshift&logoColor=white&color=F4A731)
-![](https://img.shields.io/badge/Tool-New-Relic-informational?style=flat&logo=newrelic&logoColor=white&color=F4A731)
-![](https://img.shields.io/badge/Tool-MySql-informational?style=flat&logo=MySQL&logoColor=white&color=E17F33)
-![](https://img.shields.io/badge/Tool-Intellij-informational?style=flat&logo=Intellij-IDEA&logoColor=white&color=653A27)
-![](https://img.shields.io/badge/Tool-WSL-informational?style=flat&logo=Windows-Terminal&logoColor=white&color=7CBEA4)
-![](https://img.shields.io/badge/Tool-Splunk-informational?style=flat&logo=splunk&logoColor=white&color=7CBEA4)
-![](https://img.shields.io/badge/Certification-Azure-Developer-informational?style=flat&logo=Azure-DevOps&logoColor=white&color=7CBEA4)
-![](https://img.shields.io/badge/Certification-AWS-Cloud-Practitioner-informational?style=flat&logo=amazonwebservices&logoColor=white&color=7CBEA4)
-## Certifications
-<div>
-  <div style="display: flex; gap: 20px;">
-    <div style="text-align: center;">
-      <h3>AWS Certified Cloud Practitioner</h3>
-      <img src="/images/awsbadge.png" alt="Image 1" style="width: 200px; height: auto;">
-    </div>
-    <div style="text-align: center;">
-      <h3>Microsoft Certified Azure Developer Associate</h3>
-      <img src="" alt="Image 2" style="width: 200px; height: auto;">
-    </div>
-  </div>
-</div>
+**Languages:** ![](https://img.shields.io/badge/Java-informational?style=plastic&logo=openjdk&logoColor=white&color=365a3f) ![](https://img.shields.io/badge/Kotlin-informational?style=plastic&logo=kotlin&logoColor=white&color=365a3f) ![](https://img.shields.io/badge/Groovy-informational?style=plastic&logo=apachegroovy&logoColor=white&color=365a3f) ![](https://img.shields.io/badge/Javascript-informational?style=plastic&logo=JavaScript&logoColor=white&color=365a3f) ![](https://img.shields.io/badge/C%23-informational?style=plastic&logo=csharp&logoColor=white&color=365a3f) 
 
-## GitHub stats
+**Frameworks:** ![](https://img.shields.io/badge/Spring-informational?style=plastic&logo=Spring&logoColor=white&color=5A5136) ![](https://img.shields.io/badge/React-informational?style=plastic&logo=React&logoColor=white&color=5A5136) ![](https://img.shields.io/badge/Angular-informational?style=plastic&logo=Angular&logoColor=white&color=5A5136) 
 
-[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=jkishbaugh&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+**Tools:**  ![](https://img.shields.io/badge/ArgoCd-informational?style=plastic&logo=argo&logoColor=white&color=F4A731) ![](https://img.shields.io/badge/OpenShift-informational?style=plastic&logo=redhatopenshift&logoColor=white&color=F4A731) ![](https://img.shields.io/badge/NewRelic-informational?style=plastic&logo=newrelic&logoColor=white&color=F4A731) ![](https://img.shields.io/badge/Jenkins-informational?style=plastic&logo=jenkins&logoColor=white&color=F4A731) ![](https://img.shields.io/badge/AWS-informational?style=plastic&logo=amazonwebservices&logoColor=white&color=F4A731)
+
+**Databases:** ![](https://img.shields.io/badge/SQL-informational?style=plastic&logo=Microsoft-SQL-Server&logoColor=white&color=363f5a) ![](https://img.shields.io/badge/MySql-informational?style=plastic&logo=MySQL&logoColor=white&color=363f5a) ![](https://img.shields.io/badge/Redis-informational?style=plastic&logo=redis&logoColor=white&color=363f5a) ![](https://img.shields.io/badge/Mongodb-informational?style=plastic&logo=mongodb&logoColor=white&color=363f5a) 
+
+**Explorations:** ![](https://img.shields.io/badge/Rust-informational?style=plastic&logo=Rust&logoColor=white&color=5a3651) ![](https://img.shields.io/badge/Go-informational?style=plastic&logo=Go&logoColor=white&color=5a3651) 
+
+---
+
+**Certifications:**
+| ![AWS Badge](/images/awsbadge.png) | ![Azure Badge](/images/azure-developer-associate-600x600.png) |
+|:----------------------------------:|:-----------------------------------------------------------:|
+
+__Work in Progress__
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jkishbaugh&repo=computationalThinkingForKids)](https://github.com/jkishbaugh/computationalThinkingForKids)

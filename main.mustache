@@ -1,27 +1,28 @@
-![ReadMe Header](/images/JustinBanner.png)
 # Hello Everyone!! :sauropod:
 
-My name is {{name}}. I am a software developer.
+<div style="display: flex; flex-direction: row; align-items: center; justify: space-between;">
+  <p style="width: 100px;">My name is {{name}}. I am a software developer.</p>
+  <img style="height:200px; width: auto; align: right; right: 0;" src="{{bitmoji}}" alt="Profile Image" />
+</div>
 
 ## Current Skills & Explorations
 
-{{#skills}}
-![](https://img.shields.io/badge/{{wordOnLeft}}-{{wordOnRight}}-informational?style=flat&logo={{icon}}&logoColor=white&color={{color}})
-{{/skills}}
-## Certifications
-<div>
-  <div style="display: flex; gap: 20px;">
-    <div style="text-align: center;">
-      <h3>AWS Certified Cloud Practitioner</h3>
-      <img src="/images/awsbadge.png" alt="Image 1" style="width: 200px; height: auto;">
-    </div>
-    <div style="text-align: center;">
-      <h3>Microsoft Certified Azure Developer Associate</h3>
-      <img src="images\azure-developer-associate-600x600.png" alt="Image 2" style="width: 200px; height: auto;">
-    </div>
-  </div>
-</div>
+**Languages:** {{#languages}}![]({{{url}}}) {{/languages}}
 
-## GitHub stats
+**Frameworks:** {{#frameworks}}![]({{{url}}}) {{/frameworks}}
 
-[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=jkishbaugh&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+**Tools:** {{#tools}} ![]({{{url}}}){{/tools}}
+
+**Databases:** {{#databases}}![{{label}}]({{{url}}}) {{/databases}}
+
+**Explorations:** {{#explorations}}![{{label}}]({{{url}}}) {{/explorations}}
+
+---
+
+**Certifications:**
+| ![AWS Badge](/images/awsbadge.png) | ![Azure Badge](/images/azure-developer-associate-600x600.png) |
+|:----------------------------------:|:-----------------------------------------------------------:|
+
+__Work in Progress__
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jkishbaugh&repo=computationalThinkingForKids)](https://github.com/jkishbaugh/computationalThinkingForKids)
