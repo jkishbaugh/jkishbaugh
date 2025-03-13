@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-direction: row; align-items: center; justify: space-between;">
   <p style="width: 100px;">My name is Justin. I am a software developer.</p>
-  <img style="height:200px; width: auto; align: right; right: 0;" src="&#x2F;images&#x2F;hiking.png" alt="Profile Image" />
+  <img style="height:200px; width: auto; align: right; right: 0;" src="/images/hiking.png" alt="Profile Image" />
 </div>
 
 ## Current Skills & Explorations
