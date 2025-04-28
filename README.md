@@ -7,6 +7,8 @@ Lately, I've been especially interested in how thoughtful tooling and onboarding
 
 I'm currently seeking remote-first opportunities where I can stay hands-on, mentor others, and help build amazing engineering cultures.
 Let’s connect!
+
+
 <img style="height:200px; width: auto; align: right; right: 0;" src="/images/hiking.png" alt="Profile Image" />
 
 ## Contact
