@@ -9,7 +9,7 @@ I'm currently seeking remote-first opportunities where I can stay hands-on, ment
 Let’s connect!
 
 
-<img style="height:200px; width: auto; align: right; right: 0;" src="/images/eating cake friend.png" alt="Profile Image" />
+<img style="height:200px; width: auto; align: right; right: 0;" src="/images/a pile of autumn leaves.png" alt="Profile Image" />
 
 ## Contact
 
